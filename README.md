@@ -1,2 +1,0 @@
-# paradise
-Hotel Shagun Paradise

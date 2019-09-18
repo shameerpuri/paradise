@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Hotel Shagun Paradise</title>
+    <link href="http://shameerpuri.git.io/paradise/feed.xml" rel="self" />
+    <link href="http://shameerpuri.git.io/paradise" />
+    <updated>2019-09-18T21:30:45+05:30</updated>
+    <author>
+        <name>Shagun Paradise</name>
+    </author>
+    <id>http://shameerpuri.git.io/paradise</id>
+
+    <entry>
+        <title>Paradise</title>
+        <author>
+            <name>Shagun Paradise</name>
+        </author>
+        <link href="http://shameerpuri.git.io/paradise/paradise.html"/>
+        <id>http://shameerpuri.git.io/paradise/paradise.html</id>
+
+        <updated>2019-09-18T21:30:35+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Paradise
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Paradise
+            ]]>
+        </content>
+    </entry>
+</feed>
