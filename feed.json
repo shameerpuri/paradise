@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Hotel Shagun Paradise",
     "description": "",
-    "home_page_url": "http://shameerpuri.git.io/paradise",
-    "feed_url": "http://shameerpuri.git.io/paradise/feed.json",
+    "home_page_url": "https://shameerpuri.github.io/paradise",
+    "feed_url": "https://shameerpuri.github.io/paradise/feed.json",
     "user_comment": "",
     "author": {
         "name": "Shagun Paradise"
     },
     "items": [
         {
-            "id": "http://shameerpuri.git.io/paradise/elive-30.html",
-            "url": "http://shameerpuri.git.io/paradise/elive-30.html",
+            "id": "https://shameerpuri.github.io/paradise/elive-30.html",
+            "url": "https://shameerpuri.github.io/paradise/elive-30.html",
             "title": "elive 3.0",
             "summary": "It was eight years until the developers of the Linux Elive distribution were able to launch a new version . Elive is a very stable , non-commercial free operating systemthat may be a good option to replace your default system on your computer. This system&hellip;",
             "content_html": "<p><span class=\"notranslate\"><strong>It was eight years</strong> <strong>until</strong> the developers of the Linux Elive distribution <strong>were able to launch a new version</strong> .</span> <span class=\"notranslate\">Elive <strong>is a very stable</strong> , non-commercial <strong>free operating system</strong>that may be a good option to replace your default system on your computer.</span></p>\n<p><span class=\"notranslate\"><strong>This system is maintained by a donation system</strong> and is developed by a single person.</span><span class=\"notranslate\">Elive provides an intuitive experience in a system completely ready for daily use.</span></p>\n<p> </p>\n<aside id=\"abn_singlestealer\" class=\"publi inside-content   \"><ins class=\"adsbygoogle\"    ></ins>\n<p> </p>\n<p> </p>\n<p> </p>\n<p><span class=\"notranslate\"><strong>The desktop is a very personalized version of Enlightenment</strong> that offers a light and beautiful experience that works great even on older computers.</span></p>\n<p><span class=\"notranslate\">This Linux distribution is based on the GNU / Linux Debian distribution which is based on providing a perfectly stable and powerful system.</span></p>\n<p><span class=\"notranslate\">It can be run directly in live mode without the need to install with its own guided persistence feature.</span></p>\n<p> </p>\n<aside id=\"abn_singlestealer\" class=\"publi more-inside-content   \"><ins class=\"adsbygoogle\"    ></ins>\n<p> </p>\n<p> </p>\n<p><span class=\"notranslate\">In addition to this if you want to turn your computer into a powerful workstation, this Linux distro has a very friendly installer that includes many features to facilitate the process.</span></p>\n<p><span class=\"notranslate\"><strong>Elive is a mix between an easy-to-use system</strong> for inexperienced users <strong>and includes incredibly useful tools for the advanced</strong> , this hybrid system so to speak comes in the form of a clean and beautiful desktop but powerful for any task.</span></p>\n<p><span class=\"notranslate\">Of <strong>the main features that we can highlight</strong> from this distribution are:</span></p>\n<ul>\n<li><span class=\"notranslate\">Lightness and speed</span></li>\n<li><span class=\"notranslate\">Effects and a beautiful desktop</span></li>\n<li><span class=\"notranslate\">Intuitive and simple</span></li>\n<li><span class=\"notranslate\">Guided and automated</span></li>\n<li><span class=\"notranslate\">Full, full of applications and features</span></li>\n<li><span class=\"notranslate\">Multimedia</span></li>\n<li><span class=\"notranslate\">Own features and integration</span></li>\n<li><span class=\"notranslate\">Futuristic and clean desk</span></li>\n<li><span class=\"notranslate\">Comfortable to work</span></li>\n<li><span class=\"notranslate\">It is not necessary to install and save sessions</span></li>\n<li><span class=\"notranslate\">Installer with migration, update and automatic modes</span></li>\n<li><span class=\"notranslate\">It works with 256 MB of RAM and 500 MHz CPU</span></li>\n<li><span class=\"notranslate\">Full root access</span></li>\n<li><span class=\"notranslate\">Programming functions</span></li>\n</ul>\n<h2 id=\"mcetoc_1dtqji0sn0\"><span class=\"notranslate\"><span id=\"Sobre_el_nuevo_lanzamiento_de_Elive\">About the new release of Elive</span></span></h2>\n<p><img class=\"aligncenter size-full wp-image-80479 lazyloaded\" src=\"https://blog.desdelinux.net/wp-content/uploads/2018/09/Elive.jpg\" sizes=\"(max-width: 830px) 100vw, 830px\" srcset=\"https://blog.desdelinux.net/wp-content/uploads/2018/09/Elive.jpg 830w, https://blog.desdelinux.net/wp-content/uploads/2018/09/Elive-420x338.jpg 420w, https://blog.desdelinux.net/wp-content/uploads/2018/09/Elive-600x482.jpg 600w, https://blog.desdelinux.net/wp-content/uploads/2018/09/Elive-400x321.jpg 400w, https://blog.desdelinux.net/wp-content/uploads/2018/09/Elive-373x300.jpg 373w\" alt=\"\" width=\"830\" height=\"667\"  ></p>\n<p><span class=\"notranslate\">A few days ago <strong>the developer of the Linux distribution Elive announced</strong> through a statement on his blog the availability of <strong>the new version of the distribution.</strong></span></p>\n<p><span class=\"notranslate\">Thus Thanatermesis blog announcement:</span></p>\n<blockquote>\n<p><span class=\"notranslate\">After 8 years of silent development, the third stable version of Elive is available, the result is simply incredible and the integration is magnificent, it is not even possible to describe each internal function and the new website only contains a small portion of its features.</span></p>\n<p><span class=\"notranslate\">Unfortunately, not everything is rainbow and perfection, the lack of resources caused the launch to be delayed too much, and this led to old packages and controllers, but despite that, the final result is really worth it, Elive 3.0 is the most useful that was created.</span></p>\n</blockquote>\n<p><span class=\"notranslate\">Under the hood, <strong>Elive 3.0 is based on Debian 7 (“Wheezy”), along with the</strong> adapted <strong>Enlightenment 17 desktop environment</strong> .</span></p>\n<p><span class=\"notranslate\">Elive <strong>only requires 192 MB of main memory</strong> according to system requirements <strong>and is only available as a 32-bit version</strong> , with kernel that uses PAE.</span> <span class=\"notranslate\">The distribution is not compatible with UEFI firmware, but it also runs on older hardware.</span></p>\n<p><span class=\"notranslate\">The latter, however, takes 24 hours.</span></p>\n<p><span class=\"notranslate\">Basically in this new version of the distribution we can highlight:</span></p>\n<ul>\n<li><span class=\"notranslate\">Improved designs and beautiful interfaces made by professional designers.</span></li>\n<li><span class=\"notranslate\">Better performance, integrity and features.</span></li>\n<li><span class=\"notranslate\">More tools to make your own hacks and customizations.</span></li>\n<li><span class=\"notranslate\">Make many ideas come true.</span></li>\n</ul>\n<h2 id=\"mcetoc_1dtqji0sn1\"><span class=\"notranslate\"><span id=\"Descargar_Elive_30\">Download Elive 3.0</span></span></h2>\n<p><span class=\"notranslate\">Users <strong>can download the distribution immediately after a donation</strong> .</span> <span class=\"notranslate\">If you cannot or do not want to pay, you must download the distribution through the torrents network <strong>or request the download link by email.</strong></span></p>\n<p><span class=\"notranslate\">For this you must go to the official website of the project and in its downloads section you can obtain the download link of the distribution by placing your email.</span> <span class=\"notranslate\"><a href=\"https://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;rurl=translate.google.co.in&amp;sl=auto&amp;sp=nmt4&amp;tl=en&amp;u=https://www.elivecd.org/download/stable/&amp;xid=17259,15700023,15700186,15700190,15700256,15700259,15700262,15700265,15700271,15700283&amp;usg=ALkJrhhNHey0dyZ2hjyaOii68VcRm-qNsA\" class=\"external\">The link is this.</a></span></p>\n<p><span class=\"notranslate\">Or as mentioned above you can download the distribution from Torrent, for this you must download the following Torrent file which you must use with a Torrent client which you can find some that we recommend here in the blog.</span> <span class=\"notranslate\"><a href=\"https://translate.googleusercontent.com/translate_c?depth=1&amp;hl=en&amp;rurl=translate.google.co.in&amp;sl=auto&amp;sp=nmt4&amp;tl=en&amp;u=https://www.elivecd.org/wp-content/uploads/files/Elive_Linux_Stable_3.0.0.torrent&amp;xid=17259,15700023,15700186,15700190,15700256,15700259,15700262,15700265,15700271,15700283&amp;usg=ALkJrhie4G3OdgnpHxQ2TU9wURvOBWDupg\" class=\"external\">The link is this.</a></span></p>\n<p><span class=\"notranslate\">And to record the image on a USB I can recommend the use of etcher</span></p>\n<p> </p>\n</aside>\n</aside>",
@@ -24,8 +24,8 @@
             "date_modified": "2020-01-05T15:51:13+05:30"
         },
         {
-            "id": "http://shameerpuri.git.io/paradise/college-fun-parties.html",
-            "url": "http://shameerpuri.git.io/paradise/college-fun-parties.html",
+            "id": "https://shameerpuri.github.io/paradise/college-fun-parties.html",
+            "url": "https://shameerpuri.github.io/paradise/college-fun-parties.html",
             "title": "College Fun Parties",
             "author": {
                 "name": "Shagun Paradise"
@@ -36,8 +36,8 @@
             "date_modified": "2019-11-08T21:15:39+05:30"
         },
         {
-            "id": "http://shameerpuri.git.io/paradise/school-children.html",
-            "url": "http://shameerpuri.git.io/paradise/school-children.html",
+            "id": "https://shameerpuri.github.io/paradise/school-children.html",
+            "url": "https://shameerpuri.github.io/paradise/school-children.html",
             "title": "School Children",
             "author": {
                 "name": "Shagun Paradise"
@@ -48,8 +48,8 @@
             "date_modified": "2019-11-08T21:15:28+05:30"
         },
         {
-            "id": "http://shameerpuri.git.io/paradise/armed-forces.html",
-            "url": "http://shameerpuri.git.io/paradise/armed-forces.html",
+            "id": "https://shameerpuri.github.io/paradise/armed-forces.html",
+            "url": "https://shameerpuri.github.io/paradise/armed-forces.html",
             "title": "Armed Forces",
             "author": {
                 "name": "Shagun Paradise"
@@ -60,8 +60,8 @@
             "date_modified": "2019-11-08T21:14:58+05:30"
         },
         {
-            "id": "http://shameerpuri.git.io/paradise/cusines.html",
-            "url": "http://shameerpuri.git.io/paradise/cusines.html",
+            "id": "https://shameerpuri.github.io/paradise/cusines.html",
+            "url": "https://shameerpuri.github.io/paradise/cusines.html",
             "title": "Cusines",
             "author": {
                 "name": "Shagun Paradise"
@@ -72,8 +72,8 @@
             "date_modified": "2019-11-08T21:14:45+05:30"
         },
         {
-            "id": "http://shameerpuri.git.io/paradise/village-tourism.html",
-            "url": "http://shameerpuri.git.io/paradise/village-tourism.html",
+            "id": "https://shameerpuri.github.io/paradise/village-tourism.html",
+            "url": "https://shameerpuri.github.io/paradise/village-tourism.html",
             "title": "Village Tourism",
             "author": {
                 "name": "Shagun Paradise"
@@ -84,8 +84,8 @@
             "date_modified": "2019-11-08T21:14:40+05:30"
         },
         {
-            "id": "http://shameerpuri.git.io/paradise/nature-trips.html",
-            "url": "http://shameerpuri.git.io/paradise/nature-trips.html",
+            "id": "https://shameerpuri.github.io/paradise/nature-trips.html",
+            "url": "https://shameerpuri.github.io/paradise/nature-trips.html",
             "title": "Nature Trips",
             "author": {
                 "name": "Shagun Paradise"
@@ -96,8 +96,8 @@
             "date_modified": "2019-11-08T21:14:31+05:30"
         },
         {
-            "id": "http://shameerpuri.git.io/paradise/corporate-packages.html",
-            "url": "http://shameerpuri.git.io/paradise/corporate-packages.html",
+            "id": "https://shameerpuri.github.io/paradise/corporate-packages.html",
+            "url": "https://shameerpuri.github.io/paradise/corporate-packages.html",
             "title": "Corporate Packages",
             "author": {
                 "name": "Shagun Paradise"
@@ -108,8 +108,8 @@
             "date_modified": "2019-11-08T21:14:21+05:30"
         },
         {
-            "id": "http://shameerpuri.git.io/paradise/digital-detox.html",
-            "url": "http://shameerpuri.git.io/paradise/digital-detox.html",
+            "id": "https://shameerpuri.github.io/paradise/digital-detox.html",
+            "url": "https://shameerpuri.github.io/paradise/digital-detox.html",
             "title": "Digital Detox",
             "author": {
                 "name": "Shagun Paradise"
@@ -120,8 +120,8 @@
             "date_modified": "2019-11-08T21:14:12+05:30"
         },
         {
-            "id": "http://shameerpuri.git.io/paradise/yoga.html",
-            "url": "http://shameerpuri.git.io/paradise/yoga.html",
+            "id": "https://shameerpuri.github.io/paradise/yoga.html",
+            "url": "https://shameerpuri.github.io/paradise/yoga.html",
             "title": "Yoga",
             "author": {
                 "name": "Shagun Paradise"

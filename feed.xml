@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Hotel Shagun Paradise</title>
-    <link href="http://shameerpuri.git.io/paradise/feed.xml" rel="self" />
-    <link href="http://shameerpuri.git.io/paradise" />
-    <updated>2020-01-05T15:51:19+05:30</updated>
+    <link href="https://shameerpuri.github.io/paradise/feed.xml" rel="self" />
+    <link href="https://shameerpuri.github.io/paradise" />
+    <updated>2020-01-05T15:53:19+05:30</updated>
     <author>
         <name>Shagun Paradise</name>
     </author>
-    <id>http://shameerpuri.git.io/paradise</id>
+    <id>https://shameerpuri.github.io/paradise</id>
 
     <entry>
         <title>elive 3.0</title>
         <author>
             <name>Shagun Paradise</name>
         </author>
-        <link href="http://shameerpuri.git.io/paradise/elive-30.html"/>
-        <id>http://shameerpuri.git.io/paradise/elive-30.html</id>
+        <link href="https://shameerpuri.github.io/paradise/elive-30.html"/>
+        <id>https://shameerpuri.github.io/paradise/elive-30.html</id>
 
         <updated>2020-01-05T15:51:13+05:30</updated>
             <summary>
@@ -92,8 +92,8 @@
         <author>
             <name>Shagun Paradise</name>
         </author>
-        <link href="http://shameerpuri.git.io/paradise/college-fun-parties.html"/>
-        <id>http://shameerpuri.git.io/paradise/college-fun-parties.html</id>
+        <link href="https://shameerpuri.github.io/paradise/college-fun-parties.html"/>
+        <id>https://shameerpuri.github.io/paradise/college-fun-parties.html</id>
 
         <updated>2019-11-08T21:15:39+05:30</updated>
             <summary></summary>
@@ -104,8 +104,8 @@
         <author>
             <name>Shagun Paradise</name>
         </author>
-        <link href="http://shameerpuri.git.io/paradise/school-children.html"/>
-        <id>http://shameerpuri.git.io/paradise/school-children.html</id>
+        <link href="https://shameerpuri.github.io/paradise/school-children.html"/>
+        <id>https://shameerpuri.github.io/paradise/school-children.html</id>
 
         <updated>2019-11-08T21:15:28+05:30</updated>
             <summary></summary>
@@ -116,8 +116,8 @@
         <author>
             <name>Shagun Paradise</name>
         </author>
-        <link href="http://shameerpuri.git.io/paradise/armed-forces.html"/>
-        <id>http://shameerpuri.git.io/paradise/armed-forces.html</id>
+        <link href="https://shameerpuri.github.io/paradise/armed-forces.html"/>
+        <id>https://shameerpuri.github.io/paradise/armed-forces.html</id>
 
         <updated>2019-11-08T21:14:58+05:30</updated>
             <summary></summary>
@@ -128,8 +128,8 @@
         <author>
             <name>Shagun Paradise</name>
         </author>
-        <link href="http://shameerpuri.git.io/paradise/cusines.html"/>
-        <id>http://shameerpuri.git.io/paradise/cusines.html</id>
+        <link href="https://shameerpuri.github.io/paradise/cusines.html"/>
+        <id>https://shameerpuri.github.io/paradise/cusines.html</id>
 
         <updated>2019-11-08T21:14:45+05:30</updated>
             <summary></summary>
@@ -140,8 +140,8 @@
         <author>
             <name>Shagun Paradise</name>
         </author>
-        <link href="http://shameerpuri.git.io/paradise/village-tourism.html"/>
-        <id>http://shameerpuri.git.io/paradise/village-tourism.html</id>
+        <link href="https://shameerpuri.github.io/paradise/village-tourism.html"/>
+        <id>https://shameerpuri.github.io/paradise/village-tourism.html</id>
 
         <updated>2019-11-08T21:14:40+05:30</updated>
             <summary></summary>
@@ -152,8 +152,8 @@
         <author>
             <name>Shagun Paradise</name>
         </author>
-        <link href="http://shameerpuri.git.io/paradise/nature-trips.html"/>
-        <id>http://shameerpuri.git.io/paradise/nature-trips.html</id>
+        <link href="https://shameerpuri.github.io/paradise/nature-trips.html"/>
+        <id>https://shameerpuri.github.io/paradise/nature-trips.html</id>
 
         <updated>2019-11-08T21:14:31+05:30</updated>
             <summary></summary>
@@ -164,8 +164,8 @@
         <author>
             <name>Shagun Paradise</name>
         </author>
-        <link href="http://shameerpuri.git.io/paradise/corporate-packages.html"/>
-        <id>http://shameerpuri.git.io/paradise/corporate-packages.html</id>
+        <link href="https://shameerpuri.github.io/paradise/corporate-packages.html"/>
+        <id>https://shameerpuri.github.io/paradise/corporate-packages.html</id>
 
         <updated>2019-11-08T21:14:21+05:30</updated>
             <summary></summary>
@@ -176,8 +176,8 @@
         <author>
             <name>Shagun Paradise</name>
         </author>
-        <link href="http://shameerpuri.git.io/paradise/digital-detox.html"/>
-        <id>http://shameerpuri.git.io/paradise/digital-detox.html</id>
+        <link href="https://shameerpuri.github.io/paradise/digital-detox.html"/>
+        <id>https://shameerpuri.github.io/paradise/digital-detox.html</id>
 
         <updated>2019-11-08T21:14:12+05:30</updated>
             <summary></summary>
@@ -188,8 +188,8 @@
         <author>
             <name>Shagun Paradise</name>
         </author>
-        <link href="http://shameerpuri.git.io/paradise/yoga.html"/>
-        <id>http://shameerpuri.git.io/paradise/yoga.html</id>
+        <link href="https://shameerpuri.github.io/paradise/yoga.html"/>
+        <id>https://shameerpuri.github.io/paradise/yoga.html</id>
 
         <updated>2019-11-08T21:14:03+05:30</updated>
             <summary></summary>
