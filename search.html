@@ -15,70 +15,80 @@
 
         <meta property="og:title" content="Hotel Shagun Paradise" /><meta property="og:site_name" content="Hotel Shagun Paradise" /><meta property="og:description" content="" /><meta property="og:url" content="https://shameerpuri.github.io/paradise/" /><meta property="og:type" content="website" />
         <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
-        <link href="https://fonts.googleapis.com/css?family=PT+Serif:400,700%7CMuli:400,600&amp;display=swap" rel="stylesheet"> 
-        <link rel="stylesheet" href="https://shameerpuri.github.io/paradise/assets/css/style.css">	
+        <link href="https://fonts.googleapis.com/css?family=Nunito:300,600%7CMontserrat%7CDamion&amp;display=swap" rel="stylesheet">       
+        <link rel="stylesheet" href="https://shameerpuri.github.io/paradise/assets/css/style.css">       
         <script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"Hotel Shagun Paradise","url":"https://shameerpuri.github.io/paradise/"}</script>
             <script async src="https://shameerpuri.github.io/paradise/assets/js/lazysizes.min.js"></script>
         
         
-    </head><body>
-    
-    <div class="container">
+    </head>
+    <body>
+            <div class="container">
         <header class="js-top">
             <a class="logo" href="https://shameerpuri.github.io/paradise/">
                     Hotel Shagun Paradise
-            </a>
-            <div class="top">
-                    <div class="top__search">
-                        <form action="https://shameerpuri.github.io/paradise/search.html" class="search">
+            </a>      
+    
+                <div class="search">
+                    <div class="search__overlay">
+                        <button class="search__close" aria-label="Close">Close</button>
+                        <form action="https://shameerpuri.github.io/paradise/search.html">
                             <input
+    							class="search__input"
                                 type="search"
                                 name="q"
-                                placeholder="search..."/>
+                                placeholder="search..." autofocus/>
                         </form>
                     </div>
-            </div>
+                    <button class="search__btn" aria-label="Search">
+                        <svg class="icon" role="presentation" focusable="false">
+                            <use xlink:href="https://shameerpuri.github.io/paradise/assets/svg/svg-map.svg#search"/>
+                        </svg>
+                    </button>
+                </div>
+    		
+    		
         </header>
-        <main>
-            <section class="hero hero--normal">
-                <header>
-                    <h1 class="hero__title">
-                        Search
-                    </h1>
-                    <form action="https://shameerpuri.github.io/paradise/search.html" class="hero__desc search-page">
-                        <input
-                            type="search"
-                            name="q"
-                            placeholder="search..."
-                            class="search-page__input"/>
-                    </form>
-                </header>
-            </section>
-            <div class="category">
-                <script>
-                    (function () {
-                        var cx = '';
-                        var gcse = document.createElement('script');
-                        gcse.type  = 'text/javascript';
-                        gcse.async = true;
-                        gcse.src   = 'https://cse.google.com/cse.js?cx=' + cx;
-                        var s = document.getElementsByTagName('script')[0];
-                        s.parentNode.insertBefore(gcse, s);
-                    })();
-                </script>
-                <gcse:searchresults-only></gcse:searchresults-only>
-            </div>
-        </main>
-        <footer class="footer">
-            <div class="footer__copyright">
-                Powered by Publii
-            </div>
-        
-        </footer>
-        </div>
-        <script defer src="https://shameerpuri.github.io/paradise/assets/js/jquery-3.2.1.slim.min.js"></script>
-        <script defer src="https://shameerpuri.github.io/paradise/assets/js/scripts.min.js"></script>
-        
-        
-        </body>
-        </html>
+    <main class="main">
+         <section class="hero search-page">
+            <header>
+				<h1>
+					Search
+				</h1>
+			 </header>
+			<form action="https://shameerpuri.github.io/paradise/search.html" >
+				<input
+					   type="search" 
+					   name="q" 
+					   placeholder="search..." 
+					   class="search-page__input"/>
+			 </form>
+		</section> 
+		<div class="u-innerwrap">
+			<script>
+				(function () {
+					var cx = '';
+					var gcse = document.createElement('script');
+					gcse.type  = 'text/javascript';
+					gcse.async = true;
+					gcse.src   = 'https://cse.google.com/cse.js?cx=' + cx;
+					var s = document.getElementsByTagName('script')[0];
+					s.parentNode.insertBefore(gcse, s);
+				})();
+			</script>
+			<gcse:searchresults-only></gcse:searchresults-only>
+		</div>
+    </main>
+
+    <footer class="footer">
+          <div class="footer__copyright">
+             Powered by Publii
+          </div>
+    </footer>
+    </div>
+    <script defer src="https://shameerpuri.github.io/paradise/assets/js/jquery-3.2.1.slim.min.js"></script>
+    <script defer src="https://shameerpuri.github.io/paradise/assets/js/scripts.min.js"></script>
+    
+    
+    </body>
+    </html>
