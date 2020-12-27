@@ -1931,7 +1931,7 @@ main {
   }
 }
 .container > header {
-       height: 2rem;
+       height: calc(2rem + .8rem);
 }
 @media all and (min-width: 56.25em) {
 .container > header {    
